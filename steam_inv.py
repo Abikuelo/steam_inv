@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import random
 import time
 import openpyxl
+import os
 
 
 ###########################################################
@@ -91,7 +92,8 @@ def get_price(id, sheetname, headers):
 
 # to open the excel sheet and if it has macros
 print("Opening Excel Sheet")
-srcfile = openpyxl.load_workbook('CasesCS.xls', read_only=False, keep_vba=True)
+os.rename("CasesCS.xls" , "CasesCS.xlsx")
+srcfile = openpyxl.load_workbook('CasesCS.xlsx', read_only=False, keep_vba=True)
 
 # get sheetname from the file
 sheetname = srcfile['Folha1']
@@ -107,5 +109,11 @@ for id in steam_item_id_dict:
 
 # save it as a new file, the original file is untouched and here I am saving
 # it as xlsm(m here denotes macros).
-srcfile.save('CasesCS.xls')
+srcfile.save('CasesCS.xlsx')
 print("Excel Sheet Saved")
+
+srcfile = openpyxl.load_workbook('CasesCS.xlsx', read_only=False, keep_vba=True)
+sheetname = srcfile['Folha1']
+print(f"Your Money in Cases: {sheetname['G10'].value}")
+srcfile.close()
+os.rename("CasesCS.xlsx" , "CasesCS.xls")
