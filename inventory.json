@@ -1,0 +1,5223 @@
+{
+    "assets": [
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29445626080",
+            "classid": "5264854034",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29445626028",
+            "classid": "5264854034",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29445625899",
+            "classid": "5264854034",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29445625863",
+            "classid": "5264854034",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29445625770",
+            "classid": "5264854034",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29445625685",
+            "classid": "5264854034",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29445625652",
+            "classid": "5264854034",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29445625495",
+            "classid": "5264854034",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29445625426",
+            "classid": "5264854034",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29445625412",
+            "classid": "5264854034",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29445625243",
+            "classid": "5264854034",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29445625212",
+            "classid": "5264854034",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29445625127",
+            "classid": "5264854034",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29445625041",
+            "classid": "5264854034",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29445624993",
+            "classid": "5264854034",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29445624952",
+            "classid": "5264854034",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29395322554",
+            "classid": "5261731342",
+            "instanceid": "480085569",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29392736142",
+            "classid": "4901046679",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29372084932",
+            "classid": "1989314653",
+            "instanceid": "302028390",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29346995336",
+            "classid": "5256846998",
+            "instanceid": "480085569",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29342255050",
+            "classid": "5256851939",
+            "instanceid": "480085569",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29304501781",
+            "classid": "4578724229",
+            "instanceid": "480085569",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29304080478",
+            "classid": "4726070136",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29222109372",
+            "classid": "1989295275",
+            "instanceid": "302028390",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29222101710",
+            "classid": "1989303724",
+            "instanceid": "302028390",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29222100761",
+            "classid": "1989303408",
+            "instanceid": "302028390",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29212349828",
+            "classid": "3946324730",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29204546304",
+            "classid": "3946324730",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194682712",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194677216",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194669252",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194666540",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194663415",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194660151",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194655858",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194653770",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194653709",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194651906",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194650312",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194648377",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194639439",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194634026",
+            "classid": "1923037342",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194632312",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194632210",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194523522",
+            "classid": "991959905",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194523515",
+            "classid": "991959905",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194520601",
+            "classid": "1293508920",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194520588",
+            "classid": "1293508920",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194497821",
+            "classid": "2948874694",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194491447",
+            "classid": "2948874694",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194468793",
+            "classid": "2948874694",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29194468787",
+            "classid": "2948874694",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162526086",
+            "classid": "3761545285",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162511429",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162510489",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162487617",
+            "classid": "2948874694",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162485036",
+            "classid": "3564864937",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162485026",
+            "classid": "3564864937",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162470499",
+            "classid": "2948874694",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162470396",
+            "classid": "2948874694",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162448690",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162448176",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162448150",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162448087",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162448082",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162448069",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162448063",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162448050",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162427834",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162426224",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162426215",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162426209",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162426190",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162426169",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162426142",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162426139",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162426131",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162426113",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29162426111",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150725062",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150713276",
+            "classid": "3564864937",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150713264",
+            "classid": "3564864937",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150710560",
+            "classid": "2948874694",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150710557",
+            "classid": "2948874694",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150710551",
+            "classid": "2948874694",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150701557",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150701540",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150701522",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150701510",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150701499",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150701492",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150697982",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150697975",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150697968",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150697962",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150697958",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150697933",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150697928",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150697925",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150697915",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150697913",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150697883",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150697881",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150697871",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150697859",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150697857",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150567163",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150565507",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150563616",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150562843",
+            "classid": "3564864937",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150557515",
+            "classid": "3564864937",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150552819",
+            "classid": "2948874694",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150552815",
+            "classid": "2948874694",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150552814",
+            "classid": "2948874694",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150552808",
+            "classid": "2948874694",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150552791",
+            "classid": "2948874694",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150542472",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150542459",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150542449",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150542448",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150542432",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150542405",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150542389",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150542384",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150542368",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150542364",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150542345",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150542332",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150542327",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150542318",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29150542310",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29131842397",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29131842390",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29098251499",
+            "classid": "1923037342",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29098244718",
+            "classid": "2948874694",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29098244716",
+            "classid": "2948874694",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "29097976901",
+            "classid": "469437901",
+            "instanceid": "302028390",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "28994951798",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "28994951794",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "28994951782",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "28994951773",
+            "classid": "3106076656",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "28935506037",
+            "classid": "3946324730",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "28886144728",
+            "classid": "4578724184",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "26895554832",
+            "classid": "310778113",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "26895554822",
+            "classid": "4141784213",
+            "instanceid": "188530139",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "26895554815",
+            "classid": "3035568523",
+            "instanceid": "302028390",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "26684182735",
+            "classid": "4860712322",
+            "instanceid": "480085569",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "20769535629",
+            "classid": "778383679",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "20554182015",
+            "classid": "4249616005",
+            "instanceid": "4290749136",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "15234191150",
+            "classid": "3106076676",
+            "instanceid": "0",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "14755869343",
+            "classid": "2664533628",
+            "instanceid": "2975687296",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "14571376181",
+            "classid": "1989274652",
+            "instanceid": "302028390",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "13699013599",
+            "classid": "1989271116",
+            "instanceid": "302028390",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "11302262295",
+            "classid": "1989274174",
+            "instanceid": "302028390",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "11220440532",
+            "classid": "2112356270",
+            "instanceid": "2438707097",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "9639407465",
+            "classid": "1989272295",
+            "instanceid": "302028390",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "9401054179",
+            "classid": "1989274163",
+            "instanceid": "302028390",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "9010431049",
+            "classid": "1989275902",
+            "instanceid": "302028390",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "8523134162",
+            "classid": "1989275318",
+            "instanceid": "302028390",
+            "amount": "1"
+        },
+        {
+            "appid": 730,
+            "contextid": "2",
+            "assetid": "7698821229",
+            "classid": "1989271450",
+            "instanceid": "0",
+            "amount": "1"
+        }
+    ],
+    "descriptions": [
+        {
+            "appid": 730,
+            "classid": "5264854034",
+            "instanceid": "188530139",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJ6LApS-O3wfQJihPbNcGsa6IvlltGIzqL1N7mCxT1T7ZIljLmT9N6s2AXnqENyIzekyuwdPNE",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJ6LApSibakOQBlnaGRIjgb7YThx4WPx6GsMOLQxDoGv5Ik2OvC8YmkjlHk8hdrZ2v2I4aLMlhpG8APuyg",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "This item commemorates the 2022 PGL Antwerp CS:GO Championship.",
+                    "color": "ffd700"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                }
+            ],
+            "tradable": 0,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D9956523693857126593",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Sticker | 9z Team | Antwerp 2022",
+            "name_color": "D2D2D2",
+            "type": "High Grade Sticker",
+            "market_name": "Sticker | 9z Team | Antwerp 2022",
+            "market_hash_name": "Sticker | 9z Team | Antwerp 2022",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D9956523693857126593",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Tool_Sticker",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Sticker"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Rare",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "High Grade",
+                    "color": "4b69ff"
+                },
+                {
+                    "category": "StickerCategory",
+                    "internal_name": "TeamLogo",
+                    "localized_category_name": "Sticker Type",
+                    "localized_tag_name": "Team Logo"
+                },
+                {
+                    "category": "Tournament",
+                    "internal_name": "Tournament19",
+                    "localized_category_name": "Tournament",
+                    "localized_tag_name": "2022 PGL Antwerp"
+                },
+                {
+                    "category": "TournamentTeam",
+                    "internal_name": "Team112",
+                    "localized_category_name": "Team",
+                    "localized_tag_name": "9z Team"
+                },
+                {
+                    "category": "StickerCapsule",
+                    "internal_name": "crate_sticker_pack_antwerp2022_contenders_collection",
+                    "localized_category_name": "Sticker Collection",
+                    "localized_tag_name": "Antwerp 2022 Contenders Stickers"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "5261731342",
+            "instanceid": "480085569",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PTbTjlH7du6kb-GkvT8MoTdn2xZ_It02rHCpIrx0APk8hVqMWr1LI-QdFU6YAvW8gO_xr3ugMDqup7Mz3FmpGB8st6VkheS",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PTbTjlH7du6kb-GkvT8MoTdn2xZ_Pp9i_vG8MLw2Ay3-hU4a27zLdCTIAU4aVHV_AK6wL3pjcS9u87IzCQ1vCMn43zYgVXp1jpLSOwz",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Minimal Wear"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. Its white and black design feels both sterile and futuristic.\n\n<i>Same technology, now available in a smaller form factor</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The Danger Zone Collection",
+                    "color": "9da1a9"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/antwerp2022/faze_glitter.683fd7499e57e3b20db7a8f74e5cd09d10558de5.png\"><br>Sticker: FaZe Clan (Glitter) | Antwerp 2022</center></div>"
+                }
+            ],
+            "tradable": 0,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D5398143066217827525",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Desert Eagle | Mecha Industries",
+            "name_color": "D2D2D2",
+            "type": "Classified Pistol",
+            "market_name": "Desert Eagle | Mecha Industries (Minimal Wear)",
+            "market_hash_name": "Desert Eagle | Mecha Industries (Minimal Wear)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D5398143066217827525",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 0,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Pistol",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Pistol"
+                },
+                {
+                    "category": "Weapon",
+                    "internal_name": "weapon_deagle",
+                    "localized_category_name": "Weapon",
+                    "localized_tag_name": "Desert Eagle"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_community_21",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The Danger Zone Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Legendary_Weapon",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Classified",
+                    "color": "d32ce6"
+                },
+                {
+                    "category": "Exterior",
+                    "internal_name": "WearCategory1",
+                    "localized_category_name": "Exterior",
+                    "localized_tag_name": "Minimal Wear"
+                },
+                {
+                    "category": "Tournament",
+                    "internal_name": "Tournament19",
+                    "localized_category_name": "Tournament",
+                    "localized_tag_name": "2022 PGL Antwerp"
+                },
+                {
+                    "category": "TournamentTeam",
+                    "internal_name": "Team61",
+                    "localized_category_name": "Team",
+                    "localized_tag_name": "FaZe Clan"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "4901046679",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQxnaecIT8Wv9rilYTYkfTyNuiFwmhUvpZz3-2Z9oqg0Vew80NvZzuiJdeLMlhpwFO-XdA",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Container Series #355",
+                    "color": "99ccff"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Contains one of the following:"
+                },
+                {
+                    "type": "html",
+                    "value": "FAMAS | Meow 36",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Galil AR | Destroyer",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "M4A4 | Poly Mag",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "MAC-10 | Monkeyflage",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Negev | Drop Me",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "UMP-45 | Roadblock",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Glock-18 | Winterized",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "R8 Revolver | Crazy 8",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "M249 | Downtown",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "SG 553 | Dragon Tech",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "P90 | Vent Rush",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Dual Berettas | Flora Carnivora",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "AK-47 | Ice Coaled",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "P250 | Visions",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "Sawed-Off | Kiss\u2665Love",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "USP-S | Printstream",
+                    "color": "eb4b4b"
+                },
+                {
+                    "type": "html",
+                    "value": "AWP | Chromatic Aberration",
+                    "color": "eb4b4b"
+                },
+                {
+                    "type": "html",
+                    "value": "or the Exceedingly Rare Gloves!",
+                    "color": "ffd700"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                }
+            ],
+            "tradable": 1,
+            "name": "Recoil Case",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Container",
+            "market_name": "Recoil Case",
+            "market_hash_name": "Recoil Case",
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_WeaponCase",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Container"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_community_31",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The Recoil Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                }
+            ],
+            "market_buy_country_restriction": "FR"
+        },
+        {
+            "appid": 730,
+            "classid": "1989314653",
+            "instanceid": "302028390",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pO-CI2P4eiXdYSKKHQw9TLNZNGvYrGL25-WTQTmfRu0rRgsDffRQp2BBPMGIPhY93Y8Vu2u_0UdyEhk6f9BKZAarxm1OZexyyXUT-DjD5Q8",
+            "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pO-CI2P4eiXdEC3YDlltU7RXYDrRqjb2tLyRR23LEOx4Qw5WeqYG8W1NOsrdakc4gIZfqmC5z0YzDhgvNMZJfACpx2EfJbQ1xDhPcZpVyCCh2P7hw2M",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                }
+            ],
+            "tradable": 1,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D13862224693607530786",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Sealed Graffiti | Worry (Jungle Green)",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Graffiti",
+            "market_name": "Sealed Graffiti | Worry (Jungle Green)",
+            "market_hash_name": "Sealed Graffiti | Worry (Jungle Green)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D13862224693607530786",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Spray",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Graffiti"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                },
+                {
+                    "category": "SprayColorCategory",
+                    "internal_name": "Tint8",
+                    "localized_category_name": "Graffiti Color",
+                    "localized_tag_name": "Jungle Green"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "5256846998",
+            "instanceid": "480085569",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhhwszFcDoV08-hlYfcqPrxN7LEmyUEv5Ip27mUoo6s2Azm-0A6am33JobBcQ83ZFqF-Ae5wb2605W4u5XP1zI97U9qgGzh",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhhwszFcDoV08-hlYfcqPrxN7LEm1Rd6dd2j6eUotut2QTh_BFlY2HxJIXDewI6Y1iE-Vi3xOy6h8C7vM6cn3FnvSgk-z-DyOnwzweB",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Field-Tested"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been covered in monochromatic silver and black designs.\n\n<i>You either have it or you don't</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The Clutch Collection",
+                    "color": "9da1a9"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "tradable": 0,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7638215065457505405",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "MAG-7 | SWAG-7",
+            "name_color": "D2D2D2",
+            "type": "Restricted Shotgun",
+            "market_name": "MAG-7 | SWAG-7 (Field-Tested)",
+            "market_hash_name": "MAG-7 | SWAG-7 (Field-Tested)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D7638215065457505405",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 0,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Shotgun",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Shotgun"
+                },
+                {
+                    "category": "Weapon",
+                    "internal_name": "weapon_mag7",
+                    "localized_category_name": "Weapon",
+                    "localized_tag_name": "MAG-7"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_community_19",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The Clutch Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Mythical_Weapon",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Restricted",
+                    "color": "8847ff"
+                },
+                {
+                    "category": "Exterior",
+                    "internal_name": "WearCategory2",
+                    "localized_category_name": "Exterior",
+                    "localized_tag_name": "Field-Tested"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "5256851939",
+            "instanceid": "480085569",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJU5cyzhr-HnvD8J_WDkm4GvZEh0uiW9tms3Qfl-Rdpa2vzJ9CQcVU5YgnTq1C2l7--gce_ot2XnpAZ32EI",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJU5cyzhr-HnvD8J4Tdl3lW7YsjjuyWoNil0FXjqEZlZmryJtKQegQ-Yg7V-QK5wr_s1Je06syYzSNgpGB8shyWYXeM",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Minimal Wear"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A striking green and blue bush viper has been hand painted over a black base.\n\n<i>As deadly as it is beautiful</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The Prisma Collection",
+                    "color": "9da1a9"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "tradable": 0,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D17069208453616406665",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "AWP | Atheris",
+            "name_color": "D2D2D2",
+            "type": "Restricted Sniper Rifle",
+            "market_name": "AWP | Atheris (Minimal Wear)",
+            "market_hash_name": "AWP | Atheris (Minimal Wear)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D17069208453616406665",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 0,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_SniperRifle",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Sniper Rifle"
+                },
+                {
+                    "category": "Weapon",
+                    "internal_name": "weapon_awp",
+                    "localized_category_name": "Weapon",
+                    "localized_tag_name": "AWP"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_community_22",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The Prisma Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Mythical_Weapon",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Restricted",
+                    "color": "8847ff"
+                },
+                {
+                    "category": "Exterior",
+                    "internal_name": "WearCategory1",
+                    "localized_category_name": "Exterior",
+                    "localized_tag_name": "Minimal Wear"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "4578724229",
+            "instanceid": "480085569",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJh46KlPz1J6_QlWBu5cB1g_zMu9Sl3QXsqEVsYGvzIoDGI1c9ZQuFqAC9lezv05W86cnAmCNruykqt3bD30vgJauXa7s",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJh46KlPz1J6_QlWBu5cB1g_zMyoD0mlOx5UtsZmj7d4CVcQQ-Z16DqwC9xb2618e_6J_Jn3Fj73QrtC7Vnhy_0xFSLrs4eQyoitc",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Field-Tested"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted to resemble junk food trinkets suspended in resin.\n\n<i>The snack that fights back</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The Operation Riptide Collection",
+                    "color": "9da1a9"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "tradable": 1,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D1021266002396712224",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Glock-18 | Snack Attack",
+            "name_color": "D2D2D2",
+            "type": "Classified Pistol",
+            "market_name": "Glock-18 | Snack Attack (Field-Tested)",
+            "market_hash_name": "Glock-18 | Snack Attack (Field-Tested)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D1021266002396712224",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 0,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Pistol",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Pistol"
+                },
+                {
+                    "category": "Weapon",
+                    "internal_name": "weapon_glock",
+                    "localized_category_name": "Weapon",
+                    "localized_tag_name": "Glock-18"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_community_29",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The Operation Riptide Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Legendary_Weapon",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Classified",
+                    "color": "d32ce6"
+                },
+                {
+                    "category": "Exterior",
+                    "internal_name": "WearCategory2",
+                    "localized_category_name": "Exterior",
+                    "localized_tag_name": "Field-Tested"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "4726070136",
+            "instanceid": "188530139",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0Ob3dDFL-Nmlq4KOgPbmNoTck29Y_cg_3O-Rpo7z0Qbn_UtlYT32IIeQIAY4Yl2C8lLqlLjo1pTuvsyfyyNr6z5iuyjEua_OVA",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0Ob3dDFL-Nmlq4KOgPbmNoTck29Y_chOhujT8om73lLk-BE6amvwIo6ccFI7ZVnVqFG4wuu9jZXo6cvOmnAxuHF05y7Vzgv3308iWLK6fw",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Field-Tested"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. These berettas have been custom painted with a twisted, frightening depiction of a watermelon over a navy blue background.\n\n<i>Sweet dreams...</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The Dreams & Nightmares Collection",
+                    "color": "9da1a9"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "tradable": 1,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D162772167959168122",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Dual Berettas | Melondrama",
+            "name_color": "D2D2D2",
+            "type": "Classified Pistol",
+            "market_name": "Dual Berettas | Melondrama (Field-Tested)",
+            "market_hash_name": "Dual Berettas | Melondrama (Field-Tested)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D162772167959168122",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 0,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Pistol",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Pistol"
+                },
+                {
+                    "category": "Weapon",
+                    "internal_name": "weapon_elite",
+                    "localized_category_name": "Weapon",
+                    "localized_tag_name": "Dual Berettas"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_community_30",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The Dreams & Nightmares Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Legendary_Weapon",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Classified",
+                    "color": "d32ce6"
+                },
+                {
+                    "category": "Exterior",
+                    "internal_name": "WearCategory2",
+                    "localized_category_name": "Exterior",
+                    "localized_tag_name": "Field-Tested"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "1989295275",
+            "instanceid": "302028390",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pO-CI3blaT7KIyTKDxBuTLYIPGrb-jantOnFFGzBELskQABWfacH8DUaP5yIbhY019IP_2Po2VRzGVArfclJYgKuxmAaIbE8lSNKcppWkZ5ZxfbC",
+            "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pO-CI3blaT7KIyTKD2FkHPEJYHbR_2ej5-zAF27KR7x9QVhXL6tQoWdMOsiOPxM81o8C_GHtwkd-HEMqPNVId0m4xXgcI7AwxDUbNccblHb4IZXdjf_T30ya",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                }
+            ],
+            "tradable": 1,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D9983358747628275078",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Sealed Graffiti | Speechless (Tiger Orange)",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Graffiti",
+            "market_name": "Sealed Graffiti | Speechless (Tiger Orange)",
+            "market_hash_name": "Sealed Graffiti | Speechless (Tiger Orange)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D9983358747628275078",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Spray",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Graffiti"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                },
+                {
+                    "category": "SprayColorCategory",
+                    "internal_name": "Tint3",
+                    "localized_category_name": "Graffiti Color",
+                    "localized_tag_name": "Tiger Orange"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "1989303724",
+            "instanceid": "302028390",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pu6FGjqjPGeQeCDYSlo4TbNYZz7a_Geh7OXHFjvPQe1-QQkNdaMF8mVLOp3cIVJjg5FYpGm3hUloEgIhYslfLVe9nXBGNSIw--sz",
+            "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pu6FGkv7aSXDKm_dSAo_GeEMM23Z_jqt4uqVFzjIQO4uQQkFKKRVoGAcO5vfPkBvhoFZ5XW2kAJ-ERonYMhTfBuy2ngKbOUjnyVHIU3rGcL8",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                }
+            ],
+            "tradable": 1,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D3217260544617113514",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Sealed Graffiti | GLHF (Dust Brown)",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Graffiti",
+            "market_name": "Sealed Graffiti | GLHF (Dust Brown)",
+            "market_hash_name": "Sealed Graffiti | GLHF (Dust Brown)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D3217260544617113514",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Spray",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Graffiti"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                },
+                {
+                    "category": "SprayColorCategory",
+                    "internal_name": "Tint4",
+                    "localized_category_name": "Graffiti Color",
+                    "localized_tag_name": "Dust Brown"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "1989303408",
+            "instanceid": "302028390",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0puWyTCa5PG6XKnHaTAtrGbsPPGDdqGGk4rzCE27LQOElFw8CK_AC-zUaOJ2NNgx9itAdqGq0mFZwCxo8e9VKaVK_nndKZL94cStNsw",
+            "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0puWyTCbIZDbWKCSXTFswHLUNYWzQrzb35OrGETvOFeB5SwEFfqAB9zAaOJrdOEM4htIJ_CuomUM7HRkkfddLZQOvw2QfKOAhnCJLcMnCBa-PzQ",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                }
+            ],
+            "tradable": 1,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7981547800712471304",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Sealed Graffiti | GGWP (Tracer Yellow)",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Graffiti",
+            "market_name": "Sealed Graffiti | GGWP (Tracer Yellow)",
+            "market_hash_name": "Sealed Graffiti | GGWP (Tracer Yellow)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D7981547800712471304",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Spray",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Graffiti"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                },
+                {
+                    "category": "SprayColorCategory",
+                    "internal_name": "Tint6",
+                    "localized_category_name": "Graffiti Color",
+                    "localized_tag_name": "Tracer Yellow"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "3946324730",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU2nfGaJG0btN2wwYHfxa-hY-uFxj4Dv50nj7uXpI7w3AewrhBpMWH6d9CLMlhpEbAe-Zk",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Container Series #307",
+                    "color": "99ccff"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Contains one of the following:"
+                },
+                {
+                    "type": "html",
+                    "value": "Negev | Ultralight",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "P2000 | Gnarled",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "SG 553 | Ol' Rusty",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "SSG 08 | Mainframe 001",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "P250 | Cassette",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "P90 | Freight",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "PP-Bizon | Runic",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "MAG-7 | Monster Call",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Tec-9 | Brother",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "MAC-10 | Allure",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Galil AR | Connexion",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "MP5-SD | Kitbash",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "M4A4 | Tooth Fairy",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "Glock-18 | Vogue",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "XM1014 | Entombed",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "Desert Eagle | Printstream",
+                    "color": "eb4b4b"
+                },
+                {
+                    "type": "html",
+                    "value": "AK-47 | Legion of Anubis",
+                    "color": "eb4b4b"
+                },
+                {
+                    "type": "html",
+                    "value": "or an Exceedingly Rare Special Item!",
+                    "color": "ffd700"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                }
+            ],
+            "tradable": 1,
+            "name": "Fracture Case",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Container",
+            "market_name": "Fracture Case",
+            "market_hash_name": "Fracture Case",
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_WeaponCase",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Container"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_community_26",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The Fracture Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                }
+            ],
+            "market_buy_country_restriction": "FR"
+        },
+        {
+            "appid": 730,
+            "classid": "3106076656",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUxnaPLJz5H74y1xtTcz6etNumIx29U6Zd3j7yQoYih3lG1-UJqY27xJIeLMlhpaD9Aclo",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Container Series #259",
+                    "color": "99ccff"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Contains one of the following:"
+                },
+                {
+                    "type": "html",
+                    "value": "MP9 | Modest Threat",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Glock-18 | Oxide Blaze",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Nova | Wood Fired",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "M4A4 | Magnesium",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Sawed-Off | Black Sand",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "SG 553 | Danger Close",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Tec-9 | Fubar",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "G3SG1 | Scavenger",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Galil AR | Signal",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "MAC-10 | Pipe Down",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "P250 | Nevermore",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "USP-S | Flashback",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "UMP-45 | Momentum",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "Desert Eagle | Mecha Industries",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "MP5-SD | Phosphor",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "AK-47 | Asiimov",
+                    "color": "eb4b4b"
+                },
+                {
+                    "type": "html",
+                    "value": "AWP | Neo-Noir",
+                    "color": "eb4b4b"
+                },
+                {
+                    "type": "html",
+                    "value": "or an Exceedingly Rare Special Item!",
+                    "color": "ffd700"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                }
+            ],
+            "tradable": 1,
+            "name": "Danger Zone Case",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Container",
+            "market_name": "Danger Zone Case",
+            "market_hash_name": "Danger Zone Case",
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_WeaponCase",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Container"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_community_21",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The Danger Zone Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                }
+            ],
+            "market_buy_country_restriction": "FR"
+        },
+        {
+            "appid": 730,
+            "classid": "1923037342",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVFx5KAVo5PSkKV4xhfGfKTgVvIXlxNPSwaOmMLiGwzgJvJMniO-Zoo_z2wXg-EVvfSmtc78HsNoy",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Container Series #172",
+                    "color": "99ccff"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Contains one of the following:"
+                },
+                {
+                    "type": "html",
+                    "value": "CZ75-Auto | Imprint",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Five-SeveN | Scumbria",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "G3SG1 | Ventilator",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Negev | Dazzle",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "P90 | Grim",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "UMP-45 | Briefing",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "XM1014 | Slipstream",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Desert Eagle | Directive",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Glock-18 | Weasel",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "MAG-7 | Petroglyph",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "SCAR-20 | Powercore",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "SG 553 | Triarch",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "AUG | Syd Mead",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "MP9 | Airlock",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "Tec-9 | Fuel Injector",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "AK-47 | Neon Revolution",
+                    "color": "eb4b4b"
+                },
+                {
+                    "type": "html",
+                    "value": "FAMAS | Roll Cage",
+                    "color": "eb4b4b"
+                },
+                {
+                    "type": "html",
+                    "value": "or an Exceedingly Rare Special Item!",
+                    "color": "ffd700"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                }
+            ],
+            "tradable": 1,
+            "name": "Gamma 2 Case",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Container",
+            "market_name": "Gamma 2 Case",
+            "market_hash_name": "Gamma 2 Case",
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_WeaponCase",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Container"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_gamma_2",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The Gamma 2 Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                }
+            ],
+            "market_buy_country_restriction": "FR"
+        },
+        {
+            "appid": 730,
+            "classid": "991959905",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Container Series #50",
+                    "color": "99ccff"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Contains one of the following:"
+                },
+                {
+                    "type": "html",
+                    "value": "Galil AR | Rocket Pop",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Glock-18 | Bunsen Burner",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Nova | Ranger",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "P90 | Elite Build",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "UMP-45 | Riot",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "USP-S | Torque",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "FAMAS | Neural Net",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "M4A4 | Evil Daimyo",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "MP9 | Ruby Poison Dart",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Negev | Loudmouth",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "P2000 | Handgun",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "CZ75-Auto | Yellow Jacket",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "MP7 | Nemesis",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "SG 553 | Cyrex",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "AK-47 | Aquamarine Revenge",
+                    "color": "eb4b4b"
+                },
+                {
+                    "type": "html",
+                    "value": "AWP | Hyper Beast",
+                    "color": "eb4b4b"
+                },
+                {
+                    "type": "html",
+                    "value": "or an Exceedingly Rare Falchion Knife!",
+                    "color": "ffd700"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                }
+            ],
+            "tradable": 1,
+            "name": "Falchion Case",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Container",
+            "market_name": "Falchion Case",
+            "market_hash_name": "Falchion Case",
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_WeaponCase",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Container"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_community_8",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The Falchion Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                }
+            ],
+            "market_buy_country_restriction": "FR"
+        },
+        {
+            "appid": 730,
+            "classid": "1293508920",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF4u1qubIW4Su4mzxYHbzqGtZ-KGlz8EuJcg3rnE9NiijVe3_UY-Zzr2JJjVLFEEeiQRtg",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Container Series #80",
+                    "color": "99ccff"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Contains one of the following:"
+                },
+                {
+                    "type": "html",
+                    "value": "Dual Berettas | Dualing Dragons",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "FAMAS | Survivor Z",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Glock-18 | Wraiths",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "MAC-10 | Rangeen",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "MAG-7 | Cobalt Core",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "SCAR-20 | Green Marine",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "XM1014 | Scumbria",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Galil AR | Stone Cold",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "M249 | Nebula Crusader",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "MP7 | Special Delivery",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "P250 | Wingshot",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "AK-47 | Frontside Misty",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "G3SG1 | Flux",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "SSG 08 | Big Iron",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "M4A1-S | Golden Coil",
+                    "color": "eb4b4b"
+                },
+                {
+                    "type": "html",
+                    "value": "USP-S | Kill Confirmed",
+                    "color": "eb4b4b"
+                },
+                {
+                    "type": "html",
+                    "value": "or the Exceedingly Rare Shadow Daggers!",
+                    "color": "ffd700"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                }
+            ],
+            "tradable": 1,
+            "name": "Shadow Case",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Container",
+            "market_name": "Shadow Case",
+            "market_hash_name": "Shadow Case",
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_WeaponCase",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Container"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_community_9",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The Shadow Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                }
+            ],
+            "market_buy_country_restriction": "FR"
+        },
+        {
+            "appid": 730,
+            "classid": "2948874694",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUwnfbOdDgavYXukYTZkqf2ZbrTwmkE6scgj7CY94ml3FXl-ENkMW3wctOLMlhpVHKV9YA",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Container Series #244",
+                    "color": "99ccff"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Contains one of the following:"
+                },
+                {
+                    "type": "html",
+                    "value": "AUG | Amber Slipstream",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Dual Berettas | Shred",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Glock-18 | Warhawk",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "MP9 | Capillary",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "P90 | Traction",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "R8 Revolver | Survivalist",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Tec-9 | Snek-9",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "CZ75-Auto | Eco",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "G3SG1 | High Seas",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Nova | Toy Soldier",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "AWP | PAW",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "MP7 | Powercore",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "M4A1-S | Nightmare",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "Sawed-Off | Devourer",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "FAMAS | Eye of Athena",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "AK-47 | Neon Rider",
+                    "color": "eb4b4b"
+                },
+                {
+                    "type": "html",
+                    "value": "Desert Eagle | Code Red",
+                    "color": "eb4b4b"
+                },
+                {
+                    "type": "html",
+                    "value": "or an Exceedingly Rare Special Item!",
+                    "color": "ffd700"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                }
+            ],
+            "tradable": 1,
+            "name": "Horizon Case",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Container",
+            "market_name": "Horizon Case",
+            "market_hash_name": "Horizon Case",
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_WeaponCase",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Container"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_community_20",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The Horizon Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                }
+            ],
+            "market_buy_country_restriction": "FR"
+        },
+        {
+            "appid": 730,
+            "classid": "3761545285",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU1nfbOIj8W7oWzkYLdlPOsMOmIk2kGscAj2erE99Sn2AGw_0M4NW2hIYOLMlhpcmY0CRM",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Container Series #303",
+                    "color": "99ccff"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Contains one of the following:"
+                },
+                {
+                    "type": "html",
+                    "value": "AUG | Tom Cat",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "AWP | Capillary",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "CZ75-Auto | Distressed",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Desert Eagle | Blue Ply",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "MP5-SD | Desert Strike",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Negev | Prototype",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "R8 Revolver | Bone Forged",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "P2000 | Acid Etched",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Sawed-Off | Apocalypto",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "SCAR-20 | Enforcer",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "SG 553 | Darkwing",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "SSG 08 | Fever Dream",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "AK-47 | Phantom Disruptor",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "MAC-10 | Disco Tech",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "MAG-7 | Justice",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "M4A1-S | Player Two",
+                    "color": "eb4b4b"
+                },
+                {
+                    "type": "html",
+                    "value": "Glock-18 | Bullet Queen",
+                    "color": "eb4b4b"
+                },
+                {
+                    "type": "html",
+                    "value": "or an Exceedingly Rare Special Item!",
+                    "color": "ffd700"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                }
+            ],
+            "tradable": 1,
+            "name": "Prisma 2 Case",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Container",
+            "market_name": "Prisma 2 Case",
+            "market_hash_name": "Prisma 2 Case",
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_WeaponCase",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Container"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_community_25",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The Prisma 2 Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                }
+            ],
+            "market_buy_country_restriction": "FR"
+        },
+        {
+            "appid": 730,
+            "classid": "3564864937",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU0naHKIj9D7oTgl4LelaGnMuqIwDgFusR337HCpYmhiwzm8ktqMjv2INKLMlhprbp6CTE",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Celebrating the 20th Anniversary of Counter-Strike, this weapon case contains a variety of weapon finishes from Steam Community Workshop and features the Classic Knife as the rare special item, a classic of the Counter-Strike series."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Container Series #293",
+                    "color": "99ccff"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Contains one of the following:"
+                },
+                {
+                    "type": "html",
+                    "value": "Dual Berettas | Elite 1.6",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Tec-9 | Flash Out",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "MAC-10 | Classic Crate",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "MAG-7 | Popdog",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "SCAR-20 | Assault",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "FAMAS | Decommissioned",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Glock-18 | Sacrifice",
+                    "color": "4b69ff"
+                },
+                {
+                    "type": "html",
+                    "value": "M249 | Aztec",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "MP5-SD | Agent",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "Five-SeveN | Buddy",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "P250 | Inferno",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "UMP-45 | Plastique",
+                    "color": "8847ff"
+                },
+                {
+                    "type": "html",
+                    "value": "MP9 | Hydra",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "P90 | Nostalgia",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "AUG | Death by Puppy",
+                    "color": "d32ce6"
+                },
+                {
+                    "type": "html",
+                    "value": "AWP | Wildfire",
+                    "color": "eb4b4b"
+                },
+                {
+                    "type": "html",
+                    "value": "FAMAS | Commemoration",
+                    "color": "eb4b4b"
+                },
+                {
+                    "type": "html",
+                    "value": "or the Exceedingly Rare Classic Knife!",
+                    "color": "ffd700"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                }
+            ],
+            "tradable": 1,
+            "name": "CS20 Case",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Container",
+            "market_name": "CS20 Case",
+            "market_hash_name": "CS20 Case",
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_WeaponCase",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Container"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_community_24",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The CS20 Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                }
+            ],
+            "market_buy_country_restriction": "FR"
+        },
+        {
+            "appid": 730,
+            "classid": "469437901",
+            "instanceid": "302028390",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NimlZS0mvLwOq7c2D1TusEk07CVpo2kjlW2-xJrMD_yJdWWdwNvZwnT_1a2w-u9gJLuuszXiSw0vaL8BS0",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NimlZS0mvLwOq7cqWdQ-sJ0xL_Dp4ig0Q3g-BJtNTihJNeSIVA_YAvT_1Tvx7_sgJG0vpibzHYxvHE8pSGKMdBlGCQ",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Field-Tested"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\n\n<i>By the time you're close enough to notice the pixels it's already too late</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The Bank Collection",
+                    "color": "9da1a9"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "tradable": 1,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2362857669486124813",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Sawed-Off | Forest DDPAT",
+            "name_color": "D2D2D2",
+            "type": "Consumer Grade Shotgun",
+            "market_name": "Sawed-Off | Forest DDPAT (Field-Tested)",
+            "market_hash_name": "Sawed-Off | Forest DDPAT (Field-Tested)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D2362857669486124813",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 0,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Shotgun",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Shotgun"
+                },
+                {
+                    "category": "Weapon",
+                    "internal_name": "weapon_sawedoff",
+                    "localized_category_name": "Weapon",
+                    "localized_tag_name": "Sawed-Off"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_bank",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The Bank Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common_Weapon",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Consumer Grade",
+                    "color": "b0c3d9"
+                },
+                {
+                    "category": "Exterior",
+                    "internal_name": "WearCategory2",
+                    "localized_category_name": "Exterior",
+                    "localized_tag_name": "Field-Tested"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "4578724184",
+            "instanceid": "188530139",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZh7P7YKAJE-da_q5CCmfzLP7LWnn8fvcYmiO-RoIrz2AGw80E_YG2hItKSc1c9MAnZ_VS9xrvqgMXp75TOnGwj5HcFj2c7cA",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZh7P7YKAJE-da_q5CCmfzLP7LWnn9u5MRjjeyPoI-iilLk_hU6Y2ynLITGcQJsZwzX-wC9kL_mgpO_u8jMzCE26SklsGGdwULurTqCeA",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Minimal Wear"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. An acrylic painting of Mount Fuji at dawn has been applied. The painting is used as a pattern, so each weapon may appear different.\n\n<i>The red sun rises</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The Operation Riptide Collection",
+                    "color": "9da1a9"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "tradable": 1,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D17044554951054757488",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "MP9 | Mount Fuji",
+            "name_color": "D2D2D2",
+            "type": "Restricted SMG",
+            "market_name": "MP9 | Mount Fuji (Minimal Wear)",
+            "market_hash_name": "MP9 | Mount Fuji (Minimal Wear)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D17044554951054757488",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 0,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_SMG",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "SMG"
+                },
+                {
+                    "category": "Weapon",
+                    "internal_name": "weapon_mp9",
+                    "localized_category_name": "Weapon",
+                    "localized_tag_name": "MP9"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_community_29",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The Operation Riptide Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Mythical_Weapon",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Restricted",
+                    "color": "8847ff"
+                },
+                {
+                    "category": "Exterior",
+                    "internal_name": "WearCategory1",
+                    "localized_category_name": "Exterior",
+                    "localized_tag_name": "Minimal Wear"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "310778113",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszPdDFS6dKJmImMn-O6YeqFlzID6pZzj-qY9I6t2VWw-xBtYGv0ItDEdldtZF3S_1K-l-3u04j84srtbNcI-g",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszPdDFS6dKJmImMn-PLP7rDkW4fupQli7CT99_3jVftqhFkYjinJNWUcQQ5Zw6B_gDtxOvtgJW86p7In2wj5Hcgjo49hQ",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Minimal Wear"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been painted using a hydrographic of a gel pen doodle."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The Inferno Collection",
+                    "color": "9da1a9"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "tradable": 1,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D14763582432548266988",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "P250 | Gunsmoke",
+            "name_color": "D2D2D2",
+            "type": "Industrial Grade Pistol",
+            "market_name": "P250 | Gunsmoke (Minimal Wear)",
+            "market_hash_name": "P250 | Gunsmoke (Minimal Wear)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D14763582432548266988",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 0,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Pistol",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Pistol"
+                },
+                {
+                    "category": "Weapon",
+                    "internal_name": "weapon_p250",
+                    "localized_category_name": "Weapon",
+                    "localized_tag_name": "P250"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_inferno",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The Inferno Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Uncommon_Weapon",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Industrial Grade",
+                    "color": "5e98d9"
+                },
+                {
+                    "category": "Exterior",
+                    "internal_name": "WearCategory1",
+                    "localized_category_name": "Exterior",
+                    "localized_tag_name": "Minimal Wear"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "4141784213",
+            "instanceid": "188530139",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09-vloWZh-L6OITdn2xZ_Ispj-2Wpd6s2FCx80toamGld9DBIQZtaVGG-FLskOy-0ZC87snIyiNmpGB8svJNGQN2",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09-vloWZh-L6OITdn2xZ_Pp9i_vG8MKtjVDj-0FlYz2mLI6Rew5oMg6EqVHtyee5h5Xu7Z-YnXRj6HQj5i7YgVXp1qR0cFCZ",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Minimal Wear"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. Diagonal bands of blue, red, and gold have been custom painted over this M4's black base.\n\n<i>AVAILABLE NOW AT YOUR LOCAL CYBERNETICS RETAILER</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The Operation Broken Fang Collection",
+                    "color": "9da1a9"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "tradable": 1,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D11998165597090832556",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "M4A4 | Cyber Security",
+            "name_color": "D2D2D2",
+            "type": "Classified Rifle",
+            "market_name": "M4A4 | Cyber Security (Minimal Wear)",
+            "market_hash_name": "M4A4 | Cyber Security (Minimal Wear)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D11998165597090832556",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 0,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Rifle",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Rifle"
+                },
+                {
+                    "category": "Weapon",
+                    "internal_name": "weapon_m4a1",
+                    "localized_category_name": "Weapon",
+                    "localized_tag_name": "M4A4"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_community_27",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The Operation Broken Fang Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Legendary_Weapon",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Classified",
+                    "color": "d32ce6"
+                },
+                {
+                    "category": "Exterior",
+                    "internal_name": "WearCategory1",
+                    "localized_category_name": "Exterior",
+                    "localized_tag_name": "Minimal Wear"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "3035568523",
+            "instanceid": "302028390",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0vL3ZzhQ-NWxm7-Jm-LxDLfYkWNFppV33uiS8I-t31K1rUJrMTv7IYOSI1c9M13Xq1i3x-7p1MW-uM7NzSd9-n51CmsDOd4",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0vL3ZzhQ-NWxm7-Jm-LxDLfYkWNF18lwmO7Eu9zz3FXnrhBkZD-icoeSIFQ2ZF3XqwC9k-vo1J-1up3PmCFhvnMm4SrD30vggYIkvEM",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Factory New"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. A blue spiral pattern has been applied to the slide.\n\n<i>Hard to miss</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The 2018 Inferno Collection",
+                    "color": "9da1a9"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "tradable": 1,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D14331837674722356654",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Glock-18 | High Beam",
+            "name_color": "D2D2D2",
+            "type": "Industrial Grade Pistol",
+            "market_name": "Glock-18 | High Beam (Factory New)",
+            "market_hash_name": "Glock-18 | High Beam (Factory New)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D14331837674722356654",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 0,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Pistol",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Pistol"
+                },
+                {
+                    "category": "Weapon",
+                    "internal_name": "weapon_glock",
+                    "localized_category_name": "Weapon",
+                    "localized_tag_name": "Glock-18"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_inferno_2",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The 2018 Inferno Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Uncommon_Weapon",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Industrial Grade",
+                    "color": "5e98d9"
+                },
+                {
+                    "category": "Exterior",
+                    "internal_name": "WearCategory0",
+                    "localized_category_name": "Exterior",
+                    "localized_tag_name": "Factory New"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "4860712322",
+            "instanceid": "480085569",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08ykm4aOhOT9PLXQmlRc7cF4n-SP8dyhiwK1_xU4ajygIdSdJgVoMlzRrFTqlea5hpK66ZvNmnI3vHUk4WGdwUJBbIpZ4g",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08ykm4aOhOT9PLXQmlRc7cF4n-T--Y3nj1H6r0NoMG-iINDBe1NtZArYrlLokuru05Po6JWfynZl7yYmtn-JmUCxhQYMMLJKN_FGrA",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Field-Tested"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. A custom paint job has been applied which can only be described as \"black on black on slate black\".\n\n<i>\"Call a doctor, they're gonna need one\"</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The Snakebite Collection",
+                    "color": "9da1a9"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/nip.4e0c23eefc3042258ec17bd8c0d9f91ae31d26ee.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/nip.4e0c23eefc3042258ec17bd8c0d9f91ae31d26ee.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/nip.4e0c23eefc3042258ec17bd8c0d9f91ae31d26ee.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/antwerp2022/nip_glitter.d575a4c2aeebd69af490f837854bf66fc82336e7.png\"><br>Sticker: Ninjas in Pyjamas | Stockholm 2021, Ninjas in Pyjamas | Stockholm 2021, Ninjas in Pyjamas | Stockholm 2021, Ninjas in Pyjamas (Glitter) | Antwerp 2022</center></div>"
+                }
+            ],
+            "tradable": 1,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D11720165762236312497",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "AK-47 | Slate",
+            "name_color": "D2D2D2",
+            "type": "Restricted Rifle",
+            "market_name": "AK-47 | Slate (Field-Tested)",
+            "market_hash_name": "AK-47 | Slate (Field-Tested)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D11720165762236312497",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 0,
+            "market_tradable_restriction": 7,
+            "marketable": 1,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Rifle",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Rifle"
+                },
+                {
+                    "category": "Weapon",
+                    "internal_name": "weapon_ak47",
+                    "localized_category_name": "Weapon",
+                    "localized_tag_name": "AK-47"
+                },
+                {
+                    "category": "ItemSet",
+                    "internal_name": "set_community_28",
+                    "localized_category_name": "Collection",
+                    "localized_tag_name": "The Snakebite Collection"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Mythical_Weapon",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Restricted",
+                    "color": "8847ff"
+                },
+                {
+                    "category": "Exterior",
+                    "internal_name": "WearCategory2",
+                    "localized_category_name": "Exterior",
+                    "localized_tag_name": "Field-Tested"
+                },
+                {
+                    "category": "Tournament",
+                    "internal_name": "Tournament18",
+                    "localized_category_name": "Tournament",
+                    "localized_tag_name": "2021 PGL Stockholm"
+                },
+                {
+                    "category": "Tournament",
+                    "internal_name": "Tournament19",
+                    "localized_category_name": "Tournament",
+                    "localized_tag_name": "2022 PGL Antwerp"
+                },
+                {
+                    "category": "TournamentTeam",
+                    "internal_name": "Team1",
+                    "localized_category_name": "Team",
+                    "localized_tag_name": "Ninjas in Pyjamas"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "778383679",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fEv2o1t3QXFR6a1wE4uOkKlFm0qvJd2gSvYS3x9nbwfXyZrqBxDkCvZYmjurEpomlilL6ux07YtuiRwA",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fEv2o1t3QXFR6GghWpL2gZV9mi6CdIGpG7ti3wdONlKaka-uEkDsB6sMhj7rHoNXx2wSxrkZsYGrtZNjC6pZOE0g",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Has been a member of the Counter-Strike community for over 5 years."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": ""
+                }
+            ],
+            "tradable": 0,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D11557470791981226010",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "5 Year Veteran Coin",
+            "name_color": "D2D2D2",
+            "type": "Extraordinary Collectible",
+            "market_name": "5 Year Veteran Coin",
+            "market_hash_name": "5 Year Veteran Coin",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D11557470791981226010",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 0,
+            "market_tradable_restriction": 7,
+            "marketable": 0,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Collectible",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Collectible"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Ancient",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Extraordinary",
+                    "color": "eb4b4b"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "4249616005",
+            "instanceid": "4290749136",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Ux7P_efWwMtN20kdWPwKCtZejQk24FusYm2ruYotyjiVHjqRc_ZDjzIISUcQBrM0aQpAbzEcpifA",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Ux7P_efWx94N2kk4XFx_akYLmDwjlVvMQhieyRotSg3gLl8kE_NmqlJdLDcQRrYVqB-gC6yPCv28H_JRFDGA",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Awarded for outstanding service and achievement in 2021."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Date of Issue: Jan 27, 2021 GMT",
+                    "color": "99ccff"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": ""
+                }
+            ],
+            "tradable": 0,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16334360646347055853",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "2021 Service Medal",
+            "name_color": "D2D2D2",
+            "type": "Extraordinary Collectible",
+            "market_name": "2021 Service Medal",
+            "market_hash_name": "2021 Service Medal",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16334360646347055853",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 0,
+            "market_tradable_restriction": 7,
+            "marketable": 0,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Collectible",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Collectible"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Ancient",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Extraordinary",
+                    "color": "eb4b4b"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "3106076676",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fV_ak2srsUVxwIgEZ5rikLgYy0KeZdTtHuoW1xteNx6LxMejTlD0BsZ0l07vHoNnw0FKy_F0sPT4FlIcnBQ",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fV_ak2srsUVxwIgFouru3LAIu1auZJWlGvN3hzYONwq-iMOKBxmoDusMlibuTo9ik2FXkrUBsZG3zLZjVLFGvrKTXrg",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "This badge commemorates loyal membership in the Counter-Strike community prior to the Danger Zone update. <i>Strength through loyalty.</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": ""
+                }
+            ],
+            "tradable": 0,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D496768395237447356",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Loyalty Badge",
+            "name_color": "D2D2D2",
+            "type": "Extraordinary Collectible",
+            "market_name": "Loyalty Badge",
+            "market_hash_name": "Loyalty Badge",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D496768395237447356",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 0,
+            "market_tradable_restriction": 7,
+            "marketable": 0,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Collectible",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Collectible"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Ancient",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Extraordinary",
+                    "color": "eb4b4b"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "2664533628",
+            "instanceid": "2975687296",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Y47P_efWwMtN_gwNTfxKamZ7nVxG9U65Qg0r6Z9I-j3g3s_EY5N22hINCUI1A2ZEaQpAbac7DGmA",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Y47P_efWx94N2kk4XFlfX2Yb3Sk2gDv5cpj7CYpNui0VCx_EZpMD_zcNOXI1BqYVjQrlntk_Cv28GDOhuz7Q",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Awarded for outstanding service and achievement in 2018."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Date of Issue: Aug 20, 2018 GMT",
+                    "color": "99ccff"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": ""
+                }
+            ],
+            "tradable": 0,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D913357497067350843",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "2018 Service Medal",
+            "name_color": "D2D2D2",
+            "type": "Extraordinary Collectible",
+            "market_name": "2018 Service Medal",
+            "market_hash_name": "2018 Service Medal",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D913357497067350843",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 0,
+            "market_tradable_restriction": 7,
+            "marketable": 0,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Collectible",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Collectible"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Ancient",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Extraordinary",
+                    "color": "eb4b4b"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "1989274652",
+            "instanceid": "302028390",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0puWyTCW5aWOSKXaATwlpTeBcN2iI9zWl4-TCETrBEuAvRFtSKKYGo2dMa8uAbQx9itAdqGq0mFZwCxo8e9VKaVK5yyJLM--vCu-biA",
+            "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0puWyTCXIZDbWKCSXT1oxSLteYTrbqzvx4-mUSzzIEugvEQgDL6MFoGVIO8iMbBNsgIIC8iuomUM7HRkkfddLZQOvw2QfKOAnyXdKJ5k4sISaZg",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "This graffiti can be applied to the in-game world. You can apply it until you run out of charges."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": ""
+                }
+            ],
+            "tradable": 0,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D4623588563668838285",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Graffiti | GGEZ (Bazooka Pink)",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Graffiti",
+            "market_name": "Graffiti | GGEZ (Bazooka Pink)",
+            "market_hash_name": "Graffiti | GGEZ (Bazooka Pink)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D4623588563668838285",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 0,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Spray",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Graffiti"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                },
+                {
+                    "category": "SprayColorCategory",
+                    "internal_name": "Tint16",
+                    "localized_category_name": "Graffiti Color",
+                    "localized_tag_name": "Bazooka Pink"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "1989271116",
+            "instanceid": "302028390",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0r-2yD3f4eDKKLiTYTgc7S-BWPWjR_mf34e-TQTqdRL0qRA1WdKBW9zcdb52BOEZvgZlLpWL-lEtxEQQlZ8lSeR-30ykSNOV2myVfFIlk9w",
+            "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0r-2yD3f4eDL7IyDLG1smSeZeNG-L_TT2se_FETqfQeEoQF8DfKIG82MfaJqKPBQ8044P_jLqkQptEBFuccpKfx2233gHOK0p0XwTIJNRmnBv5tF2wQ",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "This graffiti can be applied to the in-game world. You can apply it until you run out of charges."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": ""
+                }
+            ],
+            "tradable": 0,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D3179725675460699463",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Graffiti | Noscope (Desert Amber)",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Graffiti",
+            "market_name": "Graffiti | Noscope (Desert Amber)",
+            "market_hash_name": "Graffiti | Noscope (Desert Amber)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D3179725675460699463",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 0,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Spray",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Graffiti"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                },
+                {
+                    "category": "SprayColorCategory",
+                    "internal_name": "Tint5",
+                    "localized_category_name": "Graffiti Color",
+                    "localized_tag_name": "Desert Amber"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "1989274174",
+            "instanceid": "302028390",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pu6FGjqjPGeQeCDYSlo4TbNYZz7a_Geh7OXHFjvPQe1-QQkNdaMF8mVLOp3cIVJjg5FYpGm3hUloEgIhYslfLQ3qnnBHNbVGecif",
+            "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pu6FGkv7aSXDKm_dSAo_GeEMM23Z_jqt4uqVFzjIQO4uQQkFKKRVoGAcO5vfPkBvhoFZ5XW2kAJ-ERonYMhTfBuy2ngKbL90nCVGIYoaGvGu",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "This graffiti can be applied to the in-game world. You can apply it until you run out of charges."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": ""
+                }
+            ],
+            "tradable": 0,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D64400079145978115",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Graffiti | GLHF (Blood Red)",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Graffiti",
+            "market_name": "Graffiti | GLHF (Blood Red)",
+            "market_hash_name": "Graffiti | GLHF (Blood Red)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D64400079145978115",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 0,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Spray",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Graffiti"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                },
+                {
+                    "category": "SprayColorCategory",
+                    "internal_name": "Tint2",
+                    "localized_category_name": "Graffiti Color",
+                    "localized_tag_name": "Blood Red"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "2112356270",
+            "instanceid": "2438707097",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Y37P_efWwM7d6zlYaOwKH1ZbqEwzwCvZ0hjOjCrI6s3gfk-EVlYmn0INScJgRsNUaQpAZgQhpoaQ",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Y37P_efWx94N2kk4XFlq-hZOOGxmkHsMYoj7jA8dWtigfsqUs-ZGryJdLHcQE5aFrYrFPtx_Cv28G-x1WWVA",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Awarded for outstanding service and achievement in 2017."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Date of Issue: Jul 27, 2017 GMT",
+                    "color": "99ccff"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": ""
+                }
+            ],
+            "tradable": 0,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16178800987334144833",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "2017 Service Medal",
+            "name_color": "D2D2D2",
+            "type": "Extraordinary Collectible",
+            "market_name": "2017 Service Medal",
+            "market_hash_name": "2017 Service Medal",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16178800987334144833",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 0,
+            "market_tradable_restriction": 7,
+            "marketable": 0,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Collectible",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Collectible"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Ancient",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Extraordinary",
+                    "color": "eb4b4b"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "1989272295",
+            "instanceid": "302028390",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pu6FGjqjPGeQeCDYSlo4TbNYZz7a_Geh7OXHFjvPQe1-QQkNdaMF8mVLOp3cIVJjg5FYpGm3hUloEgIhYslfLQ69kyYXN61umlnl",
+            "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pu6FGkv7aSXDKm_dSAo_GeEMM23Z_jqt4uqVFzjIQO4uQQkFKKRVoGAcO5vfPkBvhoFZ5XW2kAJ-ERonYMhTfBuy2ngKbLwjkXMWI5hCgoWg",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "This graffiti can be applied to the in-game world. You can apply it until you run out of charges."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": ""
+                }
+            ],
+            "tradable": 0,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16334244702448959875",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Graffiti | GLHF (Violent Violet)",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Graffiti",
+            "market_name": "Graffiti | GLHF (Violent Violet)",
+            "market_hash_name": "Graffiti | GLHF (Violent Violet)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16334244702448959875",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 0,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Spray",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Graffiti"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                },
+                {
+                    "category": "SprayColorCategory",
+                    "internal_name": "Tint14",
+                    "localized_category_name": "Graffiti Color",
+                    "localized_tag_name": "Violent Violet"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "1989274163",
+            "instanceid": "302028390",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pPSEEEvycTKKfXSJTA88RLBYZm_d-Df2s7udQ2ydQLl5S18FL_BSp2wca8vca0E5hZlLpWL-lEtxEQQlZ8lSeR-30ylLZulxnHVA4OwVUg",
+            "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pPSEEEvycTL7IyDLG1smRLBfZDvRr2ejs7iWRTDJF-h4FQpQKKsC8GZLaZ-IbBA-hYUJrjbvxAptEBFuccpKfx2233gHOK0p0XxKcp9WnSAZqTUUGw",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "This graffiti can be applied to the in-game world. You can apply it until you run out of charges."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": ""
+                }
+            ],
+            "tradable": 0,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D1055680308173506851",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Graffiti | Rage Mode (Brick Red)",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Graffiti",
+            "market_name": "Graffiti | Rage Mode (Brick Red)",
+            "market_hash_name": "Graffiti | Rage Mode (Brick Red)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D1055680308173506851",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 0,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Spray",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Graffiti"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                },
+                {
+                    "category": "SprayColorCategory",
+                    "internal_name": "Tint1",
+                    "localized_category_name": "Graffiti Color",
+                    "localized_tag_name": "Brick Red"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "1989275902",
+            "instanceid": "302028390",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0qeODGEv1fSPQKjPfEEcmHLBXN2-PqjSl7ezCQ2zARe0pF1wNeasB8DZNa5-ObkBr14cM-DbgkQptEBFuccpKfx2233gHOK0p0XxKI5wGnHDw3jvwhQ",
+            "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0qeODGEv1fSPQKjPfEEdXEeIcYj3HrDbz5r6UFzycFeF_FQhVfaQH8TVJNcyPbEA71tUJ_zy8wUd4SUJ8cYtWfgj9yXsfPq8o3S0GLNsO0Cn4cJONgAt3X9T0YA",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "This graffiti can be applied to the in-game world. You can apply it until you run out of charges."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": ""
+                }
+            ],
+            "tradable": 0,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D12280264548977518509",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Graffiti | Backstab (Dust Brown)",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Graffiti",
+            "market_name": "Graffiti | Backstab (Dust Brown)",
+            "market_hash_name": "Graffiti | Backstab (Dust Brown)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D12280264548977518509",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 0,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Spray",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Graffiti"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                },
+                {
+                    "category": "SprayColorCategory",
+                    "internal_name": "Tint4",
+                    "localized_category_name": "Graffiti Color",
+                    "localized_tag_name": "Dust Brown"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "1989275318",
+            "instanceid": "302028390",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pO-CI3blaT7KIyTKDxBuTLYIPGrb-jantOnFFGzBELskQABWfacH8DUaP5yIbhY019IP_2Po2VRzGVArfclJYgKuxmAaIbE8lXcXcc1bz8trix8_",
+            "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pO-CI3blaT7KIyTKD2FkHPEJYHbR_2ej5-zAF27KR7x9QVhXL6tQoWdMOsiOPxM81o8C_GHtwkd-HEMqPNVId0m4xXgcI7AwxDUbNccblCKlIsLQ0_7ZsIW9",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "This graffiti can be applied to the in-game world. You can apply it until you run out of charges."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": ""
+                }
+            ],
+            "tradable": 0,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D1012188334863040897",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Graffiti | Speechless (Monster Purple)",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Graffiti",
+            "market_name": "Graffiti | Speechless (Monster Purple)",
+            "market_hash_name": "Graffiti | Speechless (Monster Purple)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D1012188334863040897",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 0,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Spray",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Graffiti"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                },
+                {
+                    "category": "SprayColorCategory",
+                    "internal_name": "Tint15",
+                    "localized_category_name": "Graffiti Color",
+                    "localized_tag_name": "Monster Purple"
+                }
+            ]
+        },
+        {
+            "appid": 730,
+            "classid": "1989271450",
+            "instanceid": "0",
+            "currency": 0,
+            "background_color": "",
+            "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0qeOZI2f_bSXNKW-IGggxH7FbYWHY_jGj4-6WRjHAR-4rFQ4HdatX-mRJb8DfbRs6hYda5XW2kAJ-ERonYMhTfBuy2ngKbLwgkHJBIcrCxwOW",
+            "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0qeOZI2f_bSXNKR7VHUxvGK1eMGne_TbxtrmQQzzNRet5EgwMK_YN92caOJvabRdp3dEL-2HqwUEqUAYmdYNFfwO02HkGPaks2C0LeMoHkSfzchAn5Kal",
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "This graffiti can be applied to the in-game world. You can apply it until you run out of charges."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "",
+                    "color": "00a000"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": ""
+                }
+            ],
+            "tradable": 0,
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16873948782130506117",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "name": "Graffiti | Sheriff (Desert Amber)",
+            "name_color": "D2D2D2",
+            "type": "Base Grade Graffiti",
+            "market_name": "Graffiti | Sheriff (Desert Amber)",
+            "market_hash_name": "Graffiti | Sheriff (Desert Amber)",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16873948782130506117",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "commodity": 1,
+            "market_tradable_restriction": 7,
+            "marketable": 0,
+            "tags": [
+                {
+                    "category": "Type",
+                    "internal_name": "CSGO_Type_Spray",
+                    "localized_category_name": "Type",
+                    "localized_tag_name": "Graffiti"
+                },
+                {
+                    "category": "Quality",
+                    "internal_name": "normal",
+                    "localized_category_name": "Category",
+                    "localized_tag_name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "internal_name": "Rarity_Common",
+                    "localized_category_name": "Quality",
+                    "localized_tag_name": "Base Grade",
+                    "color": "b0c3d9"
+                },
+                {
+                    "category": "SprayColorCategory",
+                    "internal_name": "Tint5",
+                    "localized_category_name": "Graffiti Color",
+                    "localized_tag_name": "Desert Amber"
+                }
+            ]
+        }
+    ],
+    "total_inventory_count": 160,
+    "success": 1,
+    "rwgrsn": -2
+}
