@@ -9,9 +9,9 @@ import json
 
 #76561198273710960
 # LOAD DO INVENTÁRIO QUANDO O JSON ESTIVER DESATUALIZADO
-def update_inventory(steam_id):
+def update_inventory(steam_id, headers):
     steam_id = int(steam_id)
-    json_inventory = requests.get(f"https://steamcommunity.com/inventory/{steam_id}/730/2?l=english&count=5000%22")
+    json_inventory = requests.get(f"https://steamcommunity.com/inventory/{steam_id}/730/2?l=english&count=5000%22", headers=headers)
     print("Updating Inventory")
     time.sleep(random.uniform(1, 3))
     inventory_file = open("inventory.json", "w")
@@ -46,7 +46,6 @@ def get_id(s):
         id_regex = re.search('Market_LoadOrderSpread\(([ 0-9]+)\)', script.text)
         if id_regex:
             id = id_regex.groups()[0].strip()
-            print(id)
             break
     return id
 
@@ -107,6 +106,10 @@ def update_cases_price(table, buy_prices):
     for case in buy_prices:
         if case in table['Case']:
             table['Buy Price'][table['Case'].index(case)] = buy_prices[case]
+    
+    for case in table['Case']:
+        if case not in buy_prices:
+            buy_prices[case] = 0.0
 
 def get_cases_price(steam_item_id_dict, table, error, headers):
     for id in steam_item_id_dict:
@@ -140,13 +143,14 @@ if __name__ == "__main__":
 
     buy_prices = abstract_load('buy_prices.json')
 
-    answer = input('Update Inventory - 1\nNew Player - 2\nJust Get Profit - 3\n')
+    answer = input('Update Inventory - 1\nNew Player - 2\nJust Get Profit - Other Key\n')
     if answer == "1":
         tfile = open('steam_id_file.txt', 'r')
         steam_id = tfile.readline()
-        update_inventory(steam_id.replace('\n', ''))
+        update_inventory(steam_id.replace('\n', ''), headers)
 
     elif answer == "2":
+        print("Please set your buy prices in the \"buy_prices.txt\" file")
         answer2 = input('Enter Steam ID (Number):')
         tfile = open('steam_id_file.txt', 'w')
         tfile.write(answer2)
@@ -155,7 +159,15 @@ if __name__ == "__main__":
         tfile = open('steam_id_file.txt', 'r')
         steam_id = tfile.readline()
         tfile.close()
-        update_inventory(steam_id.replace('\n', ''))
+        update_inventory(steam_id.replace('\n', ''), headers)
+        table['Case']= []
+        table['Qt']=[]
+        table['Buy Price']=[]
+        table['Sell Price']=[]
+        table['Sell Price w tax']=[]
+        table['Profit per Case']=[]
+        table['Profit']=[]
+        steam_item_id_dict = {}
     else:
         pass
 
@@ -185,11 +197,12 @@ if __name__ == "__main__":
         total = df['Profit'].sum()
         print(f"\nYour Profit is {total:.3f}€")
 
-    tfile = open('test.txt', 'w')
+    tfile = open('Report.txt', 'w')
     tfile.write(df.to_string())
     tfile.write(f"\n\nYour Profit is {total:.3f}€")
     tfile.close()
 
+    json.dump( buy_prices, open( "buy_prices.json", 'w' ) )
     json.dump( table, open( "table_cases.json", 'w' ) )
     json.dump( steam_item_id_dict, open( "steam_item_id_dict.json", 'w' ) )
     # save it as a new file, the original file is untouched and here I am saving
